@@ -5,6 +5,9 @@
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
 
 Join the open source celebration and leave a mark on the open source world! 
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfesr and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
 
 > I've opened few issues for beginners. Take up any issue and send your first PR!
@@ -24,4 +27,23 @@ Join the open source celebration and leave a mark on the open source world!
 | [Quotter](https://github.com/vinitshahdeo/Quotter/)  | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | NodeJS  |
 | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | HTML, CSS, JS  |
 
-**Happy Hacking!**
+I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
+
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
+
+```js
+
+
+  _    _                           _    _            _    _               _ 
+ | |  | |                         | |  | |          | |  (_)             | |
+ | |__| | __ _ _ __  _ __  _   _  | |__| | __ _  ___| | ___ _ __   __ _  | |
+ |  __  |/ _` | '_ \| '_ \| | | | |  __  |/ _` |/ __| |/ / | '_ \ / _` | | |
+ | |  | | (_| | |_) | |_) | |_| | | |  | | (_| | (__|   <| | | | | (_| | |_|
+ |_|  |_|\__,_| .__/| .__/ \__, | |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, | (_)
+              | |   | |     __/ |                                  __/ |    
+              |_|   |_|    |___/                                  |___/     
+
+
+```
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo/) [![powered by water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/vinitshahdeo/)
