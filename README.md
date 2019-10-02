@@ -8,11 +8,14 @@ Join the open source celebration and leave a mark on the open source world!
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
-**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfesr and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
+**Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
 
 > I've opened few issues for beginners. Take up any issue and send your first PR!
 
 #### Welcome to the Open Source World! Please find the issues below:
+
+[![JavaScript](https://img.shields.io/badge/javascript-inspirational--quotes-critical.svg?style=flat&logo=javascript)](https://github.com/vinitshahdeo/inspirational-quotes) [![Python](https://img.shields.io/badge/python-jobtweets-teal.svg?style=flat&logo=python)](https://github.com/vinitshahdeo/jobtweets/) [![NodeJS](https://img.shields.io/badge/NodeJS-Quotter-green.svg?style=flat&logo=node.js)](https://github.com/vinitshahdeo/Quotter/)
+
 
 | Repository  | Link to Issue  | Language  |
 |---|---|---|
