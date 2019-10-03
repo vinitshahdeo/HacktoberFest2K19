@@ -17,18 +17,18 @@ Join the open source celebration and leave a mark on the open source world!
 [![JavaScript](https://img.shields.io/badge/javascript-inspirational--quotes-critical.svg?style=flat&logo=javascript)](https://github.com/vinitshahdeo/inspirational-quotes) [![Python](https://img.shields.io/badge/python-jobtweets-teal.svg?style=flat&logo=python)](https://github.com/vinitshahdeo/jobtweets/) [![NodeJS](https://img.shields.io/badge/NodeJS-Quotter-green.svg?style=flat&logo=node.js)](https://github.com/vinitshahdeo/Quotter/)
 
 
-| Repository  | Link to Issue  | Language  |
-|---|---|---|
-| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)  | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | JavaScript  |
-| [jobtweets](https://github.com/vinitshahdeo/jobtweets/)  | [Taking query(#hashtags) as input from user](https://github.com/vinitshahdeo/jobtweets/issues/3)  | Python |
-| [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template)  | [Add some more template](https://github.com/vinitshahdeo/Email-Signature-Template/issues/1)  | HTML, CSS  |
-| [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer)  | [Use GitHub webhooks](https://github.com/vinitshahdeo/Hackathon-Timer/issues/1)  | NodeJS  |
-| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/)  | [Prompt a confirmation before clearing all cookies](https://github.com/vinitshahdeo/Cookie-Manager/issues/5)  | JavaScript |
-| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/)  | [Delete cookies for a single domain](https://github.com/vinitshahdeo/Cookie-Manager/issues/4) | JavaScript  |
-| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/)  | [Display cookies based on the filter i.e. regex(say github.com)](https://github.com/vinitshahdeo/Cookie-Manager/issues/3) | JavaScript  |
-| [Quotter](https://github.com/vinitshahdeo/Quotter/)  | [Auto follower (Follow for Follow)](https://github.com/vinitshahdeo/Quotter/issues/6)  | NodeJS  |
-| [Quotter](https://github.com/vinitshahdeo/Quotter/)  | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | NodeJS  |
-| [SimpleBio](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | HTML, CSS, JS  |
+| Repository| Forks | Link to Issue  | Language  |
+|---|---|---|---|
+| [inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)  | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/inspirational-quotes?style=social)](https://github.com/vinitshahdeo/inspirational-quotes/network) | [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)  | JavaScript  |
+| [jobtweets](https://github.com/vinitshahdeo/jobtweets/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/jobtweets?style=social)](https://github.com/vinitshahdeo/jobtweets/network) | [Taking query(#hashtags) as input from user](https://github.com/vinitshahdeo/jobtweets/issues/3)  | Python |
+| [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Email-Signature-Template?style=social)](https://github.com/vinitshahdeo/Email-Signature-Template/network) | [Add some more template](https://github.com/vinitshahdeo/Email-Signature-Template/issues/1)  | HTML, CSS  |
+| [Hackathon-Timer](https://github.com/vinitshahdeo/Hackathon-Timer) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Hackathon-Timer?style=social)](https://github.com/vinitshahdeo/Hackathon-Timer/network) | [Use GitHub webhooks](https://github.com/vinitshahdeo/Hackathon-Timer/issues/1)  | NodeJS  |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=social)](https://github.com/vinitshahdeo/Cookie-Manager/network) | [Prompt a confirmation before clearing all cookies](https://github.com/vinitshahdeo/Cookie-Manager/issues/5)  | JavaScript |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=social)](https://github.com/vinitshahdeo/Cookie-Manager/network) | [Delete cookies for a single domain](https://github.com/vinitshahdeo/Cookie-Manager/issues/4) | JavaScript  |
+| [Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Cookie-Manager?style=social)](https://github.com/vinitshahdeo/Cookie-Manager/network) | [Display cookies based on the filter i.e. regex(say github.com)](https://github.com/vinitshahdeo/Cookie-Manager/issues/3) | JavaScript  |
+| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Quotter?style=social)](https://github.com/vinitshahdeo/Quotter/network) | [Auto follower (Follow for Follow)](https://github.com/vinitshahdeo/Quotter/issues/6)  | NodeJS  |
+| [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Quotter?style=social)](https://github.com/vinitshahdeo/Quotter/network) | [Adding a feature to DM the quotes to all the followers](https://github.com/vinitshahdeo/Quotter/issues/5)  | NodeJS  |
+| [SimpleBio](https://github.com/vinitshahdeo/SimpleBio/issues/4) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/SimpleBio?style=social)](https://github.com/vinitshahdeo/SimpleBio/network)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | HTML, CSS, JS  |
 
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
