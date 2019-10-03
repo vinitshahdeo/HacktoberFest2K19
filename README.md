@@ -25,6 +25,8 @@ Join the open source celebration and leave a mark on the open source world!
 
 #### Welcome to the Open Source World! Please find the issues below:
 
+> **Recommended issue for beginners: [Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)**
+
 [![JavaScript](https://img.shields.io/badge/javascript-inspirational--quotes-dodgerblue.svg?style=flat&logo=javascript)](https://github.com/vinitshahdeo/inspirational-quotes) [![Python](https://img.shields.io/badge/python-jobtweets-teal.svg?style=flat&logo=python&logoColor=white)](https://github.com/vinitshahdeo/jobtweets/) [![NodeJS](https://img.shields.io/badge/NodeJS-Quotter-green.svg?style=flat&logo=node.js)](https://github.com/vinitshahdeo/Quotter/)
 
 
