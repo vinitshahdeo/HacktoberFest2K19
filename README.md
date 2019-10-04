@@ -22,7 +22,7 @@ Join the open source celebration and leave a mark on the open source world!
 | [Quotter](https://github.com/vinitshahdeo/Quotter/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Quotter?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Quotter/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Quotter?style=social&logo=github)](https://github.com/vinitshahdeo/Quotter/pulls)  |
 | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/SimpleBio?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/SimpleBio/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/SimpleBio?style=social&logo=github)](https://github.com/vinitshahdeo/SimpleBio/pulls)  |
 | [HBD](https://github.com/vinitshahdeo/HBD) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/HBD?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/HBD/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/HBD?style=social&logo=github)](https://github.com/vinitshahdeo/HBD/pulls)  |
-
+| [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Hashtagify?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Hashtagify/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Hashtagify?style=social&logo=github)](https://github.com/vinitshahdeo/Hashtagify/pulls)  |
 
 
 #### Welcome to the Open Source World! Please find the issues below:
