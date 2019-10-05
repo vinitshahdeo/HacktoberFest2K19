@@ -23,6 +23,7 @@ Join the open source celebration and leave a mark on the open source world!
 | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/SimpleBio?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/SimpleBio/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/SimpleBio?style=social&logo=github)](https://github.com/vinitshahdeo/SimpleBio/pulls)  |
 | [HBD](https://github.com/vinitshahdeo/HBD) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/HBD?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/HBD/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/HBD?style=social&logo=github)](https://github.com/vinitshahdeo/HBD/pulls)  |
 | [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Hashtagify?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/Hashtagify/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Hashtagify?style=social&logo=github)](https://github.com/vinitshahdeo/Hashtagify/pulls)  |
+| [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/online-debate-system?color=red&logo=github&style=flat-square)](https://github.com/vinitshahdeo/online-debate-system/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/online-debate-system?style=social&logo=github)](https://github.com/vinitshahdeo/online-debate-system/pulls)  |
 
 
 #### Welcome to the Open Source World! Please find the issues below:
@@ -47,6 +48,8 @@ Join the open source celebration and leave a mark on the open source world!
 | [SimpleBio](https://github.com/vinitshahdeo/SimpleBio) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/SimpleBio?style=social)](https://github.com/vinitshahdeo/SimpleBio/network)  | [Add more templates](https://github.com/vinitshahdeo/SimpleBio/issues/4)  | HTML, CSS, JS  |
 | [HBD](https://github.com/vinitshahdeo/HBD/) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/HBD?style=social)](https://github.com/vinitshahdeo/HBD/network)  | [Coder's Way of Wishing Happy Birthday](https://github.com/vinitshahdeo/HBD/issues/1)  | Any Language  |
 | [Hashtagify](https://github.com/vinitshahdeo/Hashtagify) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/Hashtagify?style=social)](https://github.com/vinitshahdeo/Hashtagify/network)  | [Suggest #Hashtags for Video](https://github.com/vinitshahdeo/Hashtagify/issues/3)  | JavaScript  |
+| [online-debate-system](https://github.com/vinitshahdeo/online-debate-system) | [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system?style=social)](https://github.com/vinitshahdeo/online-debate-system/network)  | [UI Improvements](https://github.com/vinitshahdeo/online-debate-system/issues/3)  | HTLM, CSS, JS |
+
 
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
