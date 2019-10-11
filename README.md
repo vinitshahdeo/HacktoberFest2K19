@@ -6,7 +6,7 @@
 
 Join the open source celebration and leave a mark on the open source world! 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Awesome](https://awesome.re/badge.svg)](https://github.com/vinitshahdeo/HacktoberFest2K19/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) 
 
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
 
