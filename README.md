@@ -93,4 +93,4 @@ if (isAwesome) {
 
 -----------
 
-![](./hacktoberfestfooter.png)
+[![HacktoberFest](./hacktoberfestfooter.png)](https://vinitshahdeo.github.io/HacktoberFest2K19/)
