@@ -92,3 +92,5 @@ if (isAwesome) {
 ```
 
 -----------
+
+![](./hacktoberfestfooter.png)
