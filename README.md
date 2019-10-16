@@ -1,12 +1,23 @@
 <p align="center"><img src="https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg"></p>
 
-# [HacktoberFest](https://hacktoberfest.digitalocean.com) 2019
+<h1 align="center"><a href="https://hacktoberfest.digitalocean.com"> HacktoberFest </a> 2019</h1>
 
-### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
+<p align="center">
+  <a href="https://github.com/vinitshahdeo"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> <a href="https://github.com/vinitshahdeo/HacktoberFest2K19/"><img src="https://awesome.re/badge.svg"></a> <a href="https://github.com/vinitshahdeo/HacktoberFest2K19/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat"></a>
+</p>
 
-Join the open source celebration and leave a mark on the open source world! 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Awesome](https://awesome.re/badge.svg)](https://github.com/vinitshahdeo/HacktoberFest2K19/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/HacktoberFest2K19/blob/master/LICENSE)
+<h3 align="center">It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.</h3>
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git">
+  <img alt="GitHub labels" src="https://img.shields.io/github/labels/vinitshahdeo/inspirational-quotes/hacktoberfest?logo=digitalocean">
+</p>
+
+<h4 align="center">Join the open source celebration and leave a mark on the open source world! </h4>
+
+----
 
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
 
@@ -62,6 +73,8 @@ Join the open source celebration and leave a mark on the open source world!
 I'll be adding few more issues. **[Follow me](https://github.com/vinitshahdeo/)** on GitHub([@vinitshahdeo](https://github.com/vinitshahdeo/)) to keep yourself updated!
 
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
+
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/HacktoberFest2K19/links/7)
 
 ```js
 
