@@ -4,16 +4,15 @@
 
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Awesome](https://awesome.re/badge.svg)](https://github.com/vinitshahdeo/HacktoberFest2K19/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/HacktoberFest2K19/blob/master/LICENSE)
+Join the open source celebration and leave a mark on the open source world! 
 
-#### Join the open source celebration and leave a mark on the open source world! 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![Awesome](https://awesome.re/badge.svg)](https://github.com/vinitshahdeo/HacktoberFest2K19/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&style=flat)](https://github.com/vinitshahdeo/HacktoberFest2K19/blob/master/LICENSE)
 
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt.**
 
-
-[![Open Source Love](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) [![Open Source Love](https://img.shields.io/github/labels/vinitshahdeo/inspirational-quotes/hacktoberfest?logo=digitalocean)](https://github.com/vinitshahdeo)
-
 > I've opened few issues for beginners. Take up any issue and send your first PR!
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) [![Hacktoberfest](https://img.shields.io/github/labels/vinitshahdeo/inspirational-quotes/hacktoberfest?logo=digitalocean)](https://github.com/vinitshahdeo)
 
 | Repository  | Issues  | Pull Requests  |
 |---|---|---|
