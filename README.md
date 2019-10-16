@@ -12,7 +12,7 @@ Join the open source celebration and leave a mark on the open source world!
 
 > I've opened few issues for beginners. Take up any issue and send your first PR!
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) [![Hacktoberfest](https://img.shields.io/github/labels/vinitshahdeo/inspirational-quotes/hacktoberfest?logo=digitalocean)](https://github.com/vinitshahdeo)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git)](https://github.com/vinitshahdeo) [![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2019/vinitshahdeo/inspirational-quotes?logo=digitalocean&style=flat)](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)
 
 | Repository  | Issues  | Pull Requests  |
 |---|---|---|
