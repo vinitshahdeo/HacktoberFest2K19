@@ -1,6 +1,6 @@
-<p align="center"><img src="https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg"></p>
-
 # [HacktoberFest](https://hacktoberfest.digitalocean.com) 2019
+
+> **Note: Please check out [Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020) repo**
 
 ### It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
 
